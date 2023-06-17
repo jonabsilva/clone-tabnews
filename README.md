@@ -1,3 +1,3 @@
 # clone-tabnews
-Implementation of the tabnews project.
--- my env
+
+Implementação do https://www.tabnews.com.br para o https://curso.dev
